@@ -67,3 +67,6 @@ $string['showoncalendar_help'] = '<h1>Show on the Calendar</h1> <p>When <strong>
 $string['signupforthissession'] = 'Sign-up for this session';
 $string['suppressemail_help'] = '<h1>Suppress email notification</h1> <p>Use this option if you want to silently add/remove users from a session. When this option is toggled, the usual email confirmation is not sent to the selected users.</p>';
 $string['upcomingsessionslist'] = 'List of all upcoming sessions for this Event activity';
+
+$string['discountcost_help'] = 'Discount cost is the amount charged to staff members who have a membership id.';
+$string['normalcost_help'] = 'Normal cost is the amount charged to staff members who do not have a membership id.';
