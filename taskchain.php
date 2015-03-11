@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Hot Potatoes Exercise';
+$string['modulename'] = 'Hot Potatoes Exercise v2';
 $string['modulename_help'] = 'The HotPot module allows teachers to distribute interactive learning materials to their students via Moodle and view reports on the students\' responses and results. .
 
 A single HotPot activity consists of an optional entry page, a chain of tasks and an optional exit page. Each task may be a static web page or an interactive web page which offers students text, audio and visual prompts and records their responses. The tasks are created on the teacher\'s computer using authoring software and then uploaded to Moodle.
