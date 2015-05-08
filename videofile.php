@@ -25,15 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Local Video';
-$string['modulenameplural'] = 'Local Videos';
-$string['modulename_help'] = 'Use the local video module for sensitive videos that don\'t belong on Vimeo. If you aren\'t sure which to use, please contact your FLT.';
+$string['modulename'] = 'Protected Video';
+$string['modulenameplural'] = 'Protected Videos';
+$string['modulename_help'] = 'Use the protected video module for sensitive videos that don\'t belong on Vimeo. If you aren\'t sure which to use, please contact your FLT.';
 
-$string['videofile:addinstance'] = 'Add a new local video';
-$string['videofile:view'] = 'View local video';
+$string['videofile:addinstance'] = 'Add a new protected video';
+$string['videofile:view'] = 'View protected video';
 
-$string['pluginadministration'] = 'Local Video administration';
-$string['pluginname'] = 'Local Video';
+$string['pluginadministration'] = 'Protected Video administration';
+$string['pluginname'] = 'Protected Video';
 
-$string['videofile_defaults_heading'] = 'Default values for local video settings';
+$string['videofile_defaults_heading'] = 'Default values for protected video settings';
 $string['videofile_defaults_text'] = 'The values you set here define the default values that are used in the settings form when you create a new activity.';
