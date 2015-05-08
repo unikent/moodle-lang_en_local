@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Protected Video';
-$string['modulenameplural'] = 'Protected Videos';
+$string['modulename'] = 'Video - Protected';
+$string['modulenameplural'] = 'Videos - Protected';
 $string['modulename_help'] = 'Use the protected video module for sensitive videos that don\'t belong on Vimeo. If you aren\'t sure which to use, please contact your FLT.';
 
 $string['videofile:addinstance'] = 'Add a new protected video';
