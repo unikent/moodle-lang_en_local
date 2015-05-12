@@ -25,15 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Video - Protected';
-$string['modulenameplural'] = 'Videos - Protected';
-$string['modulename_help'] = 'Use the protected video module for sensitive videos that don\'t belong on Vimeo. If you aren\'t sure which to use, please contact your FLT.';
+$string['modulename'] = 'Video - Limited Audience';
+$string['modulenameplural'] = 'Videos - Limited Audience';
+$string['modulename_help'] = 'Use the limited audience video module for videos with sensitive content. If you aren\'t sure which to use, please contact your FLT.';
 
-$string['videofile:addinstance'] = 'Add a new protected video';
-$string['videofile:view'] = 'View protected video';
+$string['videofile:addinstance'] = 'Add a new limited audience video';
+$string['videofile:view'] = 'View limited audience video';
 
-$string['pluginadministration'] = 'Protected Video administration';
-$string['pluginname'] = 'Protected Video';
+$string['pluginadministration'] = 'Limited Audience Video administration';
+$string['pluginname'] = 'Limited Audience Video';
 
-$string['videofile_defaults_heading'] = 'Default values for protected video settings';
+$string['videofile_defaults_heading'] = 'Default values for limited audience video settings';
 $string['videofile_defaults_text'] = 'The values you set here define the default values that are used in the settings form when you create a new activity.';
