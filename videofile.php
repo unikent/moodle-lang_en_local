@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['modulename'] = 'Video - Restricted';
 $string['modulenameplural'] = 'Videos - Restricted';
-$string['modulename_help'] = 'Use the restricted video module for videos with sensitive content. If you aren\'t sure which to use, please contact your FLT.';
+$string['modulename_help'] = 'Any video uploaded here can be restricted to only those groups you select (such as convenors and teachers only). This is intended for more sensitive material or for assessed student work for review by staff. Videos uploaded here will be hosted on Kent servers.';
 
 $string['videofile:addinstance'] = 'Add a new restricted video';
 $string['videofile:view'] = 'View restricted video';
