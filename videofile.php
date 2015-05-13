@@ -25,15 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Video - Limited Audience';
-$string['modulenameplural'] = 'Videos - Limited Audience';
-$string['modulename_help'] = 'Use the limited audience video module for videos with sensitive content. If you aren\'t sure which to use, please contact your FLT.';
+$string['modulename'] = 'Video - Restricted';
+$string['modulenameplural'] = 'Videos - Restricted';
+$string['modulename_help'] = 'Use the restricted video module for videos with sensitive content. If you aren\'t sure which to use, please contact your FLT.';
 
-$string['videofile:addinstance'] = 'Add a new limited audience video';
-$string['videofile:view'] = 'View limited audience video';
+$string['videofile:addinstance'] = 'Add a new restricted video';
+$string['videofile:view'] = 'View restricted video';
 
-$string['pluginadministration'] = 'Limited Audience Video administration';
-$string['pluginname'] = 'Limited Audience Video';
+$string['pluginadministration'] = 'Restricted Video administration';
+$string['pluginname'] = 'Restricted Video';
 
-$string['videofile_defaults_heading'] = 'Default values for limited audience video settings';
+$string['videofile_defaults_heading'] = 'Default values for restricted video settings';
 $string['videofile_defaults_text'] = 'The values you set here define the default values that are used in the settings form when you create a new activity.';
