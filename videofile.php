@@ -25,15 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Video - Protected';
-$string['modulenameplural'] = 'Videos - Protected';
-$string['modulename_help'] = 'Use the protected video module for sensitive videos that don\'t belong on Vimeo. If you aren\'t sure which to use, please contact your FLT.';
+$string['modulename'] = 'Video - Restricted';
+$string['modulenameplural'] = 'Videos - Restricted';
+$string['modulename_help'] = 'Any video uploaded here can be restricted to only those groups you select (such as convenors and teachers only). This is intended for more sensitive material or for assessed student work for review by staff. Videos uploaded here will be hosted on Kent servers.';
 
-$string['videofile:addinstance'] = 'Add a new protected video';
-$string['videofile:view'] = 'View protected video';
+$string['videofile:addinstance'] = 'Add a new restricted video';
+$string['videofile:view'] = 'View restricted video';
 
-$string['pluginadministration'] = 'Protected Video administration';
-$string['pluginname'] = 'Protected Video';
+$string['pluginadministration'] = 'Restricted Video administration';
+$string['pluginname'] = 'Restricted Video';
 
-$string['videofile_defaults_heading'] = 'Default values for protected video settings';
+$string['videofile_defaults_heading'] = 'Default values for restricted video settings';
 $string['videofile_defaults_text'] = 'The values you set here define the default values that are used in the settings form when you create a new activity.';
