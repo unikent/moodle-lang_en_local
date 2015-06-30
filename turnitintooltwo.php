@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['modulename'] = 'Assignment: Turnitin';
+$string['modulenameplural'] = 'Turnitin assignments';
