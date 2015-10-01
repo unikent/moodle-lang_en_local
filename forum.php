@@ -26,3 +26,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['namenews'] = 'Announcements';
+$string['digestmailsubject'] = '{$a} forum digest';
